@@ -1,0 +1,57 @@
+body{
+    background-color: #26547C;
+}
+
+.container{
+    position: absolute;
+    padding: 4%;
+    top: 30%;
+    left: 25%;
+    border: solid 2px #EF476F;
+    background-color: #2d6291;
+}
+
+.container:hover{
+    box-shadow: 0 0 1px #EF476F, 
+	            0 0 5px #EF476F, 
+	            0 0 10px #EF476F, 
+	            0 0 20px #EF476F; 
+
+}
+h1{
+    color: #EF476F;
+    font-family: 'Courgette', cursive;  
+    font-size: 3rem;
+}
+
+input{
+    padding: 10px;
+    width: 300px;
+    border-radius: 5px;
+    font-size: 1rem;
+    color: #26547C ;
+    border: solid 2px #FFD166;
+}
+
+div{
+    margin: 10px 0;
+}
+
+button{
+    padding: 10px;
+    background-color: #FFD166;
+    color: #26547C;
+    border: 0px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover{
+	background-color: #FFD166;
+	box-shadow: 0 0 1px #FFD166, 
+	            0 0 5px #FFD166, 
+	            0 0 10px #FFD166, 
+	            0 0 20px #FFD166; 
+
+
+}
