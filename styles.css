@@ -55,3 +55,23 @@ button:hover{
 
 
 }
+
+footer{
+    color: #FFD166;
+    position: absolute;
+    bottom: 5px;
+    left: 45%;
+}
+
+a{
+    text-decoration: none;
+    color: #FFD166;
+}
+
+a:visited, a:active{ 
+    color: #FFD166;
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
